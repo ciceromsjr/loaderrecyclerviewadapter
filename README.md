@@ -1,3 +1,6 @@
+[![Release](https://jitpack.io/v/ciceromsjr/loaderrecyclerviewadapter.svg)](https://jitpack.io/#ciceromsjr/loaderrecyclerviewadapter)
+[![API](https://img.shields.io/badge/API-15%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=15)
+
 # Loader RecyclerView Adapter
 
 That is an useful library to make it possible to load the recycler view data in a background thread using android loader.
