@@ -36,7 +36,7 @@ dependencies {
 Extending
 -----
 
-You have your model
+Create your model
 
 ``` 
 public class Country {
